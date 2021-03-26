@@ -1,16 +1,28 @@
-### Hi there 👋
+# Olá, seja bem vindo ao meu Perfil do GitHub 👦 🖥️
 
-<!--
-**gulaureano/gulaureano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me: <p>Tenho 21 anos e sempre gostei de computadores, nos meus 16 anos fiz um curso de Hardware e aprendi a montar e desmontar um computador, a partir daí fui me aprofundando mais e mais, depois de pesquisar, fiquei apaixonado por programação, principalmente no back-end 😅 (inclusive, foi onde mais me destaquei e me identifiquei), e a partir daí venho sempre me aprofundando cada vez mais nas tecnologias que gosto e no que realmente acredito ser bom, o back-end 👾. Atualmente estou estudando Java, mas procuro sempre melhorar tanto em back-end quanto em front-end 🖥️, e acredito que a vida é uma constante aprendizagem, confira abaixo as coisas que aprendi até agora.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Back-end
+
+* Java
+* C
+* C#
+
+## Front-end
+
+* HTML
+* CSS
+* JavaScript
+
+## Banco de Dados
+
+* Oracle SQL
+
+## Extras
+
+* UML de classe
+
+<p>esse foi um pouco do que aprendi até agora, claro que continuarei estudando e me esforçando para que meu conhecimento cresça cada vez mais, e meu GitHub fique cheio de projetos haha, obrigado por ler até aqui, espero que tenha gostado do meu perfil.</p>
+
