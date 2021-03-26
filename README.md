@@ -31,5 +31,5 @@
 
 <p>Entre em contato comigo 📫</p>
 <a href="https://www.linkedin.com/in/gustavo-laureano/"><img width="22px" src="https://icons.iconarchive.com/icons/martz90/circle/512/linkedin-icon.png">
-<a href="malito:gustavolaureano3510@gmail.com"><img width="22px" src="https://icons.iconarchive.com/icons/martz90/circle/512/email-icon.png">
+<a href="mailto:gustavolaureano3510@gmail.com"><img width="22px" src="https://icons.iconarchive.com/icons/martz90/circle/512/email-icon.png">
   
