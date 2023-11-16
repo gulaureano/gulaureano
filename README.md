@@ -1,6 +1,6 @@
 # Olá, seja bem vindo ao meu Perfil do GitHub 👦 🖥️
 
-## About me: <p>Tenho 21 anos e sempre gostei de computadores, nos meus 16 anos fiz um curso de Hardware e aprendi a montar e desmontar um computador, a partir daí fui me aprofundando mais e mais, depois de pesquisar, fiquei apaixonado por programação, principalmente no back-end 😅 (inclusive, foi onde mais me destaquei e me identifiquei), e a partir daí venho sempre me aprofundando cada vez mais nas tecnologias que gosto e no que realmente acredito ser bom, o back-end 👾. Atualmente estou estudando Java, mas procuro sempre melhorar tanto em back-end quanto em front-end 🖥️, e acredito que a vida é uma constante aprendizagem, confira abaixo as coisas que aprendi até agora.</p>
+## About me: <p>Tenho 24 anos e sempre gostei de computadores, nos meus 16 anos fiz um curso de Hardware e aprendi a montar e desmontar um computador, a partir daí fui me aprofundando mais e mais, depois de pesquisar, fiquei apaixonado por programação, principalmente no back-end 😅 (inclusive, foi onde mais me destaquei e me identifiquei), e a partir daí venho sempre me aprofundando cada vez mais nas tecnologias que gosto e no que realmente acredito ser bom, o back-end 👾. Atualmente estou estudando Java, mas procuro sempre melhorar tanto em back-end quanto em front-end 🖥️, e acredito que a vida é uma constante aprendizagem, confira abaixo as coisas que aprendi até agora.</p>
 
 
 
